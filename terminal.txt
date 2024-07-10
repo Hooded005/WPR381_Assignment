@@ -1,0 +1,3 @@
+npm init -y
+npm install node
+npm install node-fetch
